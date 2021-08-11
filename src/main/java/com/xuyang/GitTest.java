@@ -10,5 +10,6 @@ public class GitTest {
         System.out.println("git,hello");
         System.out.println("git,time");
         System.out.println("git,bye");
+        System.out.println("git,bye bye");
     }
 }
