@@ -8,6 +8,7 @@ package com.xuyang;
 public class GitTest {
     public static void main(String[] args) {
         System.out.println("git,hello");
+        System.out.println("git,time");
         System.out.println("git,bye");
     }
 }
